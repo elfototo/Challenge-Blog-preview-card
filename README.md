@@ -13,7 +13,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [My process](#my-process)
     - [Built with](#built-with)
   - [Author](#author)
-  - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -25,14 +24,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/1440x768-screen-pre-card.png)
-![](./assets/images/375-screen-pre-card.png)
+![](./public/1440x768-screen-pre-card.png)
+![](./public/375-screen-pre-card.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/elfototo/Challenge-Blog-preview-card)
+- Live Site URL: [Add live site URL here](https://elfototo.github.io/Challenge-Blog-preview-card/)
 
 ## My process
 
