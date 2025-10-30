@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./public/1440x768-screen-pre-card.png)
-![](./public/375-screen-pre-card.png)
+![](./images/1440x768-screen-pre-card.png)
+![](./images/375-screen-pre-card.png)
 
 
 ### Links
